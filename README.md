@@ -1,7 +1,7 @@
 # Priority-Based-To-Do-List-Project-DSA
 A menu-driven C program for managing tasks with priority levels, allowing users to add, display, complete, and delete tasks.
 
-Priority-Based To-Do List in C:~
+**Priority-Based To-Do List in C:~**
 
 A simple console-based Priority-Based To-Do List application developed in C as a Data Structures and Algorithms mini project. The program allows users to add, display, complete, and delete tasks while assigning priorities to help manage daily activities efficiently.
 
